@@ -13,3 +13,5 @@ Estaas são as localizações onde se podem alterar os arquios de texto para alt
 As alteração de idioma no PAINEL Administrador tenho tentado mas como sabemos os arquivos são criptografados pelo ionCube Loader;()
 
 
+
+OnlyHard Projects 4.0
